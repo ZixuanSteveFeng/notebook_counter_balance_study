@@ -34129,20 +34129,20 @@ Filter.classes = {
 
 // HTML templates for the filter UI.
 Filter.html = {
-    element: [
-        '<div class="annotator-filter">',
-        '  <strong>' + _t('Navigate:') + '</strong>',
-        '  <span class="annotator-filter-navigation">',
-        '    <button type="button"',
-        '            class="annotator-filter-previous">' +
-            _t('Previous') +
-            '</button>',
-        '    <button type="button"',
-        '            class="annotator-filter-next">' + _t('Next') + '</button>',
-        '  </span>',
-        '  <strong>' + _t('Filter by:') + '</strong>',
-        '</div>'
-    ].join('\n'),
+    // element: [
+    //     '<div class="annotator-filter">',
+    //     '  <strong>' + _t('Navigate:') + '</strong>',
+    //     '  <span class="annotator-filter-navigation">',
+    //     '    <button type="button"',
+    //     '            class="annotator-filter-previous">' +
+    //         _t('Previous') +
+    //         '</button>',
+    //     '    <button type="button"',
+    //     '            class="annotator-filter-next">' + _t('Next') + '</button>',
+    //     '  </span>',
+    //     '  <strong>' + _t('Filter by:') + '</strong>',
+    //     '</div>'
+    // ].join('\n'),
 
     filter: [
         '<span class="annotator-filter-property">',
