@@ -1112,3 +1112,28 @@ h1 {
 .tab {
     margin-left: 40px;
 }
+
+.annotation_text{
+  margin-right: 10px;
+  margin-left: 0px;
+  padding-left: 0px;
+  font-family: Lato, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  font-weight:normal
+}
+.block-quote2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background-color: #ededed;
+  font-family: Montserrat, sans-serif;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 400;
+}
